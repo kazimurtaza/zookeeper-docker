@@ -1,6 +1,6 @@
-FROM wurstmeister/base
+FROM kazimurtaza/base
 
-MAINTAINER Wurstmeister
+MAINTAINER kazimurtaza
 
 ENV ZOOKEEPER_VERSION 3.4.9
 
